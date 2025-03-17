@@ -36,7 +36,7 @@ This project includes several object-oriented programming exercises in JavaScrip
    ```
 2. Navigate to the project folder:
    ```bash
-   cd ../PooJs
+   cd PooJs
    ```
 
 ## Screenshot
