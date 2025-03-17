@@ -32,7 +32,7 @@ This project includes several object-oriented programming exercises in JavaScrip
 ## Installation and Execution
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/makombelajob/PooJs.git
    ```
 2. Navigate to the project folder:
    ```bash
