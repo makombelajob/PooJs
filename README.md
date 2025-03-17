@@ -38,12 +38,6 @@ This project includes several object-oriented programming exercises in JavaScrip
    ```bash
    cd repository-name
    ```
-3. Run the corresponding JavaScript files for each exercise:
-   ```bash
-   node lab1.js  # For the Book class
-   node lab2.js  # For inheritance and method overriding
-   node lab3.js  # For multiple inheritance
-   ```
 
 ## Screenshot
 Include a relevant image for your project:
